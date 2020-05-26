@@ -1,0 +1,6 @@
+
+testPoint.cpp: test basic functionality of the Point class
+
+testShape.cpp: test basic functionality of the Circle and Rectangle classes
+
+checkpack.cpp: check the validity of a packing shapes read from stdin
